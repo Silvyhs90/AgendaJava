@@ -1,0 +1,15 @@
+ 0 juan lopez 40969555 45886969 65 tio
+1 silvina saucedo 39284456 45886969 29 yo misma
+2 pablo agustin 949494949 4848844 29 youtuber
+8 mariana fernandez 8202949 34445656 32 cu�ada
+12 juan gutierrez 345532434 1556576777 39 primo
+18 clara alvear 2050444 41565654545 99 abuela materna
+19 juan lopez 40969555 45886969 65 primo
+21 juan gutierrez 345532434 1556576777 39 amigo
+25 fabian housay 12939444 45766666 33 amigo
+30 silvina saucedo 39284456 45886969 29 trabajo
+32 roberto fernandez 32848555 8686868 76 conocido
+66 manuel fernandez 32848555 8686868 76 abuelo
+76 fabian housay 12939444 45766666 33 amigo
+80 margarita alvear 2050444 41565654545 99 abuela paterna
+99 mariana fernandez 8202949 34445656 32 amigo
